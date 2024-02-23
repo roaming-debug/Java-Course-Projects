@@ -19,3 +19,7 @@ These projects involves intro to Java, covering array application and linked lis
 ## SQL-Injection
 
 Gained knowledge about SQL & PHP using the platform [DVWA](https://github.com/digininja/DVWA) (DAMN VULNERABLE WEB APPLICATION). By inferring the PHP code in the backend implementation, break in the server using SQL implementation vulnerabilities. 
+
+## CS536
+
+A simple scanner for a comiler using Jlex involving Java programming lanugage and a set of unit tests to validate the implementation of the scanner.
