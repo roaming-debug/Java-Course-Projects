@@ -1,0 +1,11 @@
+"und
+2147483648
+9999999999999
+! this is not a comment
+10foobar
+"unterminated
+"also unterminated \"
+"backslash followed by space: \ is not allowed"
+"bad escaped character: \a AND not terminated
+"very bad string \
+"asdkjhkjahkj

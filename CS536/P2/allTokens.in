@@ -1,0 +1,57 @@
+!! int 
+2024 2023
+2147483647
+!! keywords
+void void
+logical logical
+integer integer
+True True
+False False
+tuple tuple
+read read
+write write
+if if
+else else
+while while
+return return
+!! Identifier
+foo1 foo1
+_bar
+foo1bar
+var_
+test_var
+FOO
+__
+!! String
+"" "&!88"
+"use \n to denote a newline character"
+"include a quote like this \" and a backslash like this \\"
+"\n\s\t\'\"\\"
+$ other symbols
+{ 
+} } 
+( 
+) ) 
+[ 
+] ] 
+: 
+, , 
+. 
+<< << 
+>> 
+= = 
+~ 
+& & 
+| 
+++ ++ 
+-- 
++ + 
+- 
+* * 
+/ 
+< < 
+> 
+<= <= 
+>= 
+== == 
+~= 
